@@ -1,5 +1,7 @@
 # 🚀 Meu Primeiro App com Streamlit e Python
 
+> 🔗 **Acesse o app online aqui:** [https://meu-primeiro-app-python-jcuhbvzzhgqzhxtixyappn7.streamlit.app/)
+
 Este é um projeto de estudo desenvolvido para explorar as capacidades do framework **Streamlit**, que permite criar interfaces web interativas utilizando apenas a linguagem **Python**.
 
 ## 📝 Descrição

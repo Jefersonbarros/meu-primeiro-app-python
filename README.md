@@ -22,7 +22,7 @@ Se você quiser testar este projeto no seu computador, siga os passos abaixo:
    pip install streamlit
 4.Execute o comando:
    ```bash
-python -m streamlit run app.py
+   python -m streamlit run app.py
 
 ## 🧠 O que eu aprendi
 

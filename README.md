@@ -16,8 +16,7 @@ O aplicativo é uma interface web simples onde o usuário pode interagir com cam
 Para preparar o computador para este projeto, utilizei o **Chocolatey** para instalar as ferramentas de forma automatizada via PowerShell:
 
 1. **Instalação do Chocolatey** (Executado como Administrador):
-```bach
-   Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('[https://community.chocolatey.org/install.ps1](https://community.chocolatey.org/install.ps1)'))
+```bachSet-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
 2. **Instalação do Python e Git**

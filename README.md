@@ -31,7 +31,7 @@ git clone https://github.com/Jefersonbarros/meu-primeiro-app-python.git
 ```
 2. **Entre na pasta do projeto**
 ```bash
-cd MeuProjeto
+cd meu-primeiro-app-python
 ```
 3. **Instale o Streamlit**
 ```bash

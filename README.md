@@ -24,6 +24,8 @@ Se você quiser testar este projeto no seu computador, siga os passos abaixo:
 ```bash
 python -m streamlit run app.py
 
+
+
 ## 🧠 O que eu aprendi
 
 * **Configuração de ambiente Python**: Aprendi a preparar o sistema e utilizar o `pip` para gerenciamento de pacotes e bibliotecas.

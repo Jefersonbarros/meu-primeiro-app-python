@@ -27,7 +27,7 @@ choco install python git -y
 ## ⚙️ Como rodar o projeto localmente
 1. **Clone este repositório**
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+git clone https://github.com/Jefersonbarros/meu-primeiro-app-python.git
 ```
 2. **Entre na pasta do projeto**
 ```bash
